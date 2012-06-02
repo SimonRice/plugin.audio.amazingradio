@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="plugin.audio.amazingradio"
+  version="1.0.0"
+  name="Amazing Radio"
+  provider-name="Simon Rice">
+  <requires>
+    <import addon="xbmc.gui" version="2.11" optional="false" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="amazing-xbmc.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language></language>
+    <summary>Amazing Radio on XBMC</summary>
+    <platform>all</platform>
+  </extension>
+</addon>
