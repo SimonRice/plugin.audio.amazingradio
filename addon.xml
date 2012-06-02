@@ -12,7 +12,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <language></language>
-    <summary>Amazing Radio on XBMC</summary>
+    <summary>Amazing Radio &amp; Amazing Ambient live streams on XBMC</summary>
     <platform>all</platform>
   </extension>
 </addon>
