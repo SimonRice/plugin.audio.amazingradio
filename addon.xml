@@ -5,14 +5,14 @@
   name="Amazing Radio"
   provider-name="Simon Rice">
   <requires>
-    <import addon="xbmc.gui" version="2.11" optional="false" />
+    <import addon="xbmc.python" version="1.0" />
   </requires>
-  <extension point="xbmc.python.pluginsource" library="amazing-xbmc.py">
+  <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>audio</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <language></language>
-    <summary>Amazing Radio &amp; Amazing Ambient live streams on XBMC</summary>
+    <summary>Listen to Amazing Radio &amp; Amazing Ambient live XBMC</summary>
     <platform>all</platform>
   </extension>
 </addon>
