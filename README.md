@@ -21,6 +21,10 @@ To all you developers out there, feel free to chip into this addon if you find a
 
 ## Changelog
 
+### v1.0.2
+
+* Amazing Radio stream fixes
+
 ### v1.0.1
 
 * Fixes for Raspberry Pi (under Raspbmc) & some documentation improvements

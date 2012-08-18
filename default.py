@@ -13,7 +13,7 @@ def createListing():
     @return list
     """
     listing = []
-    listing.append(['Amazing Radio','http://stream.amazingradio.co.uk:8000/listen.pls']) 
+    listing.append(['Amazing Radio','http://178.79.148.242:8000/listen.pls']) 
     listing.append(['Amazing Ambient','http://stream-7.streamsolutions.co.uk:9038/listen.pls'])
     return listing
 
